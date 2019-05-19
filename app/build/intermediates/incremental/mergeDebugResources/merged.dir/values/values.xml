@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorBlack">#000000</color>
+    <color name="colorBlue">#99ffff</color>
+    <color name="colorGreen">#00FF7F</color>
+    <color name="colorRed">#FF4040</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorYellow">#FFFF00</color>
+    <string name="app_name">NotePad</string>
+    <string name="blue">blue</string>
+    <string name="button_ok">OK</string>
+    <string name="color_sort">sort by color</string>
+    <string name="createTime_sort">sort by createTime</string>
+    <string name="error_message">Error loading note</string>
+    <string name="error_title">Error</string>
+    <string name="font_10">font_10</string>
+    <string name="font_20">font_20</string>
+    <string name="font_30">font_30</string>
+    <string name="font_40">font_40</string>
+    <string name="green">green</string>
+    <string name="live_folder_name">Notes</string>
+    <string name="menu_add">New note</string>
+    <string name="menu_color">Color</string>
+    <string name="menu_copy">拷贝</string>
+    <string name="menu_delete">删除</string>
+    <string name="menu_fontColor">fontColor</string>
+    <string name="menu_fontSize">字体大小</string>
+    <string name="menu_open">打开</string>
+    <string name="menu_paste">粘贴</string>
+    <string name="menu_revert">取消修改</string>
+    <string name="menu_save">Save</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_sort">Sort</string>
+    <string name="menu_voice">voice</string>
+    <string name="modifyTime_sort">sort by modifyTime</string>
+    <string name="nothing_to_save">There is nothing to save</string>
+    <string name="red">red</string>
+    <string name="resolve_edit">Edit note</string>
+    <string name="resolve_title">编辑标题</string>
+    <string name="text_title">Title:</string>
+    <string name="title_create">新便签</string>
+    <string name="title_edit_title">标题:</string>
+    <string name="title_notes_list">Notes</string>
+    <string name="title_notes_search">搜索</string>
+</resources>
